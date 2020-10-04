@@ -1,0 +1,15 @@
+.btn-solid-primary:not(.btn-solid-primary--disabled):hover{
+  background: #f05d40;
+}
+.YtgjXY{
+  margin-right:30px;
+  min-width: 10rem;
+}
+.btn-tinted:not(.btn-tinted--disabled):hover{
+  background: blue;
+}
+.gia{
+  font-size: 20px;
+  
+}
+

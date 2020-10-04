@@ -1,0 +1,40 @@
+
+.table:not(.table-dark) {
+    color: inherit;
+}
+.card-body>.table {
+    margin-bottom: 0;
+}
+
+.table {
+    width: 10%;
+    margin-bottom: 1rem;
+    color: #212529;
+    background-color: transparent;
+}
+table {
+    border-collapse: collapse;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}

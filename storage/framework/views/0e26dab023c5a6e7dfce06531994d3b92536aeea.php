@@ -1,0 +1,1 @@
+<?php /**PATH E:\BANTHUCAN\resources\views/send-mail.blade.php ENDPATH**/ ?>
